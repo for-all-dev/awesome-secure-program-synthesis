@@ -12,8 +12,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Papers](#papers)
 - [Repos](#repos)
 - [Evals](#evals)
+- [Companies](#companies)
+- [Orgs](#orgs)
 - [Community](#community)
 - [Posts](#posts)
+- [Talks](#talks)
 - [Theory](#theory)
 - [Fiction](#fiction)
 
@@ -23,8 +26,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 - [The Scalable Formal Oversight Research Agenda](https://www.lesswrong.com/posts/SfhFh9Hfm6JYvzbby/the-scalable-formal-oversight-research-program)
 - [Position: Formal Methods are the Principled Foundation of Safe AI](https://openreview.net/pdf?id=7V5CDSsjB7)
+- [Position: Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods](https://openreview.net/forum?id=wkisIZbntD)
+- [How to Solve Secure Program Synthesis](https://www.lesswrong.com/posts/8wtrLoDPyCfMLuHkt/how-to-solve-secure-program-synthesis)
+- [A Proposal for Safe and Hallucination-free Coding AI](https://gasstationmanager.github.io/ai/2024/11/04/a-proposal.html)
 - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+- [Formal Verification: A Bulwark Against the Rising Tide of AI Slop](https://pepi.codes/blog/2024-10-29)
+- [Formal Verification: The Final Line of Defense in the AI Era](https://baohua.medium.com/formal-verification-the-final-line-of-defense-in-the-ai-era-494657f9c3c3)
 - [Proof Assistants in the Age of AI](https://leodemoura.github.io/blog/2026-2-18-proof-assistants-in-the-age-of-ai/)
 - [CSLib: Lean's Formal Software Foundation](https://blog.atlascomputing.org/p/cslib-leans-formal-software-foundation)
 - ["It must be an interesting time to be in programming languages and formal methods..."](https://x.com/karpathy/status/2023476423055601903)
@@ -48,6 +56,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [AlphaEvolve: A coding agent for scientific and algorithmic discovery (Novikov et al.) (2025/06)](https://arxiv.org/abs/2506.13131)
 - [Saarthi: The First AI Formal Verification Engineer (Kumar et al.) (2025/02)](https://arxiv.org/abs/2502.16662v2)
 - [Chain-of-Programming (CoP) : Empowering Large Language Models for Geospatial Code Generation (Hou et al.) (2024/11)](https://arxiv.org/abs/2411.10753v1)
+- [Formal Reasoning Meets LLMs: Toward AI for Mathematics and Verification (CACM)](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
 - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length (Ma et al.) (2024/04)](https://arxiv.org/abs/2404.08801)
 
 ## Repos
@@ -62,9 +71,20 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [BoxArena](https://box-arena.vercel.app/)
 - [dafny-replay](https://github.com/metareflection/dafny-replay)
 
-## Community
+## Companies
 
-### Orgs
+_See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMxAI ecosystem._
+
+- [Axiom](https://axiommath.ai/)
+- [Harmonic](https://harmonic.fun)
+- [Higher Order Co](https://higherorderco.com/)
+- [NDEA](https://ndea.com/)
+- [Percepta](https://www.percepta.ai)
+- [Reasonable](https://reasonable.io/)
+- [Sigil Logic](https://sigillogic.com/)
+- [Theorem](https://theorem.dev/)
+
+## Orgs
 
 - [Atlas Computing](https://atlascomputing.org/)
 - [Lean FRO](https://lean-lang.org/fro/)
@@ -73,12 +93,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Beneficial AI Foundation](https://www.beneficialaifoundation.org/)
 - [Forall R&D](https://for-all.dev)
 - [Stanford's CENTAUR](https://centaur.stanford.edu/)
-- [Percepta](https://www.percepta.ai)
-- [Harmonic](https://harmonic.fun)
+
+## Community
 
 ### Venues
 
-- [FMxAI](https://sites.google.com/view/fmxai2025) conference series
+- [FMxAI](https://fmxai.org/) conference series
 - [Post AGI Formal Methods](https://www.p-ai-fm.com/) workshop
 - [AIPV](https://aipv2026.github.io) workshop
 - [AITP](https://aitp-conference.org) conference
@@ -87,6 +107,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
 - [claimcheck: Narrowing the Gap between Proof and Intent](https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/)
+- [From Vague Words to Verifiable Code: How AI is Building the Bridge to Flawless Software](https://blog.gopenai.com/from-vague-words-to-verifiable-code-how-ai-is-building-the-bridge-to-flawless-software-b6b676d9de6b)
+- [Lies, Damned Lies, and Proofs: Formal Methods are not Slopless](https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless)
+- [Broken proofs and broken provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
+- [Coding Intelligence Asymptotics](https://fi-le.net/asymptotics/)
+
+### Talks
+
+- [Evan Miyazono - Set Laws AI Must Prove It's Following (AI Security Forum)](https://www.youtube.com/watch?v=MEIR7djpTzg)
 
 ### Feeds
 
