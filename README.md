@@ -13,6 +13,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Repos](#repos)
 - [Evals](#evals)
 - [Companies](#companies)
+- [Orgs](#orgs)
 - [Community](#community)
 - [Posts](#posts)
 - [Talks](#talks)
@@ -62,17 +63,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 - TODO
 
-## Companies
-
-_See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMxAI ecosystem._
-
-- [Axiom](https://axiommath.ai/)
-- [Higher Order Co](https://higherorderco.com/)
-- [NDEA](https://ndea.com/)
-- [Reasonable](https://reasonable.io/)
-- [Sigil Logic](https://sigillogic.com/)
-- [Theorem](https://theorem.dev/)
-
 ## Evals
 
 - [FVAPPS](https://huggingface.co/datasets/quinn-dougherty/fvapps)
@@ -81,9 +71,20 @@ _See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMx
 - [BoxArena](https://box-arena.vercel.app/)
 - [dafny-replay](https://github.com/metareflection/dafny-replay)
 
-## Community
+## Companies
 
-### Orgs
+_See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMxAI ecosystem._
+
+- [Axiom](https://axiommath.ai/)
+- [Harmonic](https://harmonic.fun)
+- [Higher Order Co](https://higherorderco.com/)
+- [NDEA](https://ndea.com/)
+- [Percepta](https://www.percepta.ai)
+- [Reasonable](https://reasonable.io/)
+- [Sigil Logic](https://sigillogic.com/)
+- [Theorem](https://theorem.dev/)
+
+## Orgs
 
 - [Atlas Computing](https://atlascomputing.org/)
 - [Lean FRO](https://lean-lang.org/fro/)
@@ -92,8 +93,8 @@ _See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMx
 - [Beneficial AI Foundation](https://www.beneficialaifoundation.org/)
 - [Forall R&D](https://for-all.dev)
 - [Stanford's CENTAUR](https://centaur.stanford.edu/)
-- [Percepta](https://www.percepta.ai)
-- [Harmonic](https://harmonic.fun)
+
+## Community
 
 ### Venues
 
