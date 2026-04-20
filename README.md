@@ -61,7 +61,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Repos
 
-- TODO
+- [`VibeRegistry`](https://github.com/GasStationManager/VibeRegistry)
 
 ## Evals
 
@@ -83,12 +83,12 @@ _See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMx
 - [Reasonable](https://reasonable.io/)
 - [Sigil Logic](https://sigillogic.com/)
 - [Theorem](https://theorem.dev/)
+- [Sequent](https://sequent.inc)
 
 ## Orgs
 
 - [Atlas Computing](https://atlascomputing.org/)
 - [Lean FRO](https://lean-lang.org/fro/)
-- [Theorem Labs](https://theoremlabs.com/)
 - [CSLib](https://www.cslib.io/)
 - [Beneficial AI Foundation](https://www.beneficialaifoundation.org/)
 - [Forall R&D](https://for-all.dev)
