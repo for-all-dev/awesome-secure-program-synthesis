@@ -62,6 +62,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Repos
 
 - [`VibeRegistry`](https://github.com/GasStationManager/VibeRegistry)
+- [WybeCoder](https://facebookresearch.github.io/wybecoder/)
 
 ## Evals
 
@@ -104,6 +105,7 @@ _See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMx
 - [AITP](https://aitp-conference.org) conference
 
 ### Posts
+- [Spotting Specs](https://risemsr.github.io/blog/2026-04-16-spotting-specs/)
 
 - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
 - [claimcheck: Narrowing the Gap between Proof and Intent](https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/)
