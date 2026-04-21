@@ -62,9 +62,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Repos
 
 - [`VibeRegistry`](https://github.com/GasStationManager/VibeRegistry)
+- [WybeCoder](https://facebookresearch.github.io/wybecoder/)
 
 ## Evals
 
+- [RealPBT](https://huggingface.co/datasets/Benchify/realpbt)
 - [FVAPPS](https://huggingface.co/datasets/quinn-dougherty/fvapps)
 - [CLEVER](https://arxiv.org/abs/2505.13938)
 - [VeriSoftBench](https://utopia-group.github.io/VeriSoftBench/)
@@ -98,12 +100,15 @@ _See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMx
 
 ### Venues
 
+- [SVIL 2026](https://beneficial-ai-foundation.github.io/SVIL2026/) workshop
 - [FMxAI](https://fmxai.org/) conference series
 - [Post AGI Formal Methods](https://www.p-ai-fm.com/) workshop
 - [AIPV](https://aipv2026.github.io) workshop
 - [AITP](https://aitp-conference.org) conference
 
 ### Posts
+- [The Hypothesis corpus](https://hypothesis.works/articles/hypothesis-corpus/)
+- [Spotting Specs](https://risemsr.github.io/blog/2026-04-16-spotting-specs/)
 
 - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
 - [claimcheck: Narrowing the Gap between Proof and Intent](https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/)
@@ -123,6 +128,7 @@ _See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMx
 
 ### Funders
 
+- [FMxAI SPS Fellowship](https://fmxai.org/)
 - [Harmonic -> Lean FRO](https://harmonic.fun/news#blog-post-inaugural-donation-lean-fro)
 
 TODO
