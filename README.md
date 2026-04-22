@@ -86,6 +86,7 @@ _See also [fmxai.org](https://fmxai.org/) for a browsable map of the broader FMx
 - [Sigil Logic](https://sigillogic.com/)
 - [Theorem](https://theorem.dev/)
 - [Sequent](https://sequent.inc)
+- [Midspiral](https://midspiral.com/)
 
 ## Orgs
 
