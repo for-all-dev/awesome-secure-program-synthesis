@@ -61,6 +61,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Repos
 
+- [Derivative](https://github.com/Daniele-Cangi/Derivative)
 - [`VibeRegistry`](https://github.com/GasStationManager/VibeRegistry)
 - [WybeCoder](https://facebookresearch.github.io/wybecoder/)
 
